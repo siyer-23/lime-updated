@@ -1,0 +1,4 @@
+run_id	run_dir	group1	group2	comparison_label
+ischemia_in_calcified	/sfs/gpfs/tardis/project/cphg-millerlab/ShayI/28_rmats-calcification-gencode50_08-21-2026/02_output/calc-nonisch-isch-v50	nonischemic_calcified	ischemic_calcified	Nonischemic calcified vs ischemic calcified
+calcification_in_normal	/sfs/gpfs/tardis/project/cphg-millerlab/ShayI/28_rmats-calcification-gencode50_08-21-2026/02_output/normal-calc-noncalc-v50	normal_noncalcified	normal_calcified	Normal noncalcified vs normal calcified
+calcification_in_nonischemic	/sfs/gpfs/tardis/project/cphg-millerlab/ShayI/28_rmats-calcification-gencode50_08-21-2026/02_output/nonisch-noncalc-calc-v50	nonischemic_noncalcified	nonischemic_calcified	Nonischemic noncalcified vs nonischemic calcified

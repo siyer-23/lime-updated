@@ -26,3 +26,4 @@ dist/
 *.log
 *.out
 *.err
+results/
